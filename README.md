@@ -131,4 +131,5 @@ ___
 - https://www.bankingdive.com/news/sofi-acquisition-galileo-deal/575703/
 - https://stackshare.io/sofi/sofi
 - https://www.statista.com/statistics/185488/leading-us-commercial-banks-by-revenue/
+- https://craft.co/sofi/competitors
 ___
